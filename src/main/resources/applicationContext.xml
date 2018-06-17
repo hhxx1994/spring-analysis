@@ -6,4 +6,5 @@
 
         http://www.hhx.com/schema/user http://www.hhx.com/schema/user.xsd">
     <myTag:user id="testBean" userName="jack" />
+    <bean id="emailListener" class="applicationlistener.EmailListener"></bean>
 </beans>
