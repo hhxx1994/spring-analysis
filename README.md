@@ -1,6 +1,7 @@
 # spring-analysis
 
-NamespaceHandler
+NamespaceHandler 命名空间具柄
+NamespaceHandlerResolver 命名空间具柄解析器
 
 [reference blog](https://juejin.im/post/5b2452786fb9a00e8b25225f)
 
@@ -136,3 +137,5 @@ Caused by: org.xml.sax.SAXParseException; lineNumber: 8; columnNumber: 49; cvc-c
 
 Process finished with exit code 1
 ```
+
+自定义xsd文件
