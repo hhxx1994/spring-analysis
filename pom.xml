@@ -8,7 +8,7 @@
     <artifactId>spring-annlysis</artifactId>
     <version>1.0-SNAPSHOT</version>
     <properties>
-        <spring_version>5.0.7.RELEASE</spring_version>
+        <spring_version>5.2.7.RELEASE</spring_version>
 
     </properties>
     <dependencies>
